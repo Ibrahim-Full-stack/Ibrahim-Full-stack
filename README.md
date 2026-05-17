@@ -7,52 +7,21 @@ Welcome to my GitHub profile! I am a passionate Full-Stack Web Developer dedicat
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br />HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br />CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      <br />PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br />MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      <br />Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-      <br />Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-      <br />VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br />GitHub
-    </td>
-  </tr>
-</table>
+**Frontend Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Backend & Database**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
